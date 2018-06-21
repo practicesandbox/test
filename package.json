@@ -1,0 +1,13 @@
+{
+    "name": "test name",
+    "description": "test description",
+    "version": "1.0.13",
+    "engines": {
+        "node": "^6.9.5",
+        "npm": "^3.10.10"
+    },
+    "scripts": {
+        "postinstall": "who cares",
+        "start": "test"
+    }
+}
